@@ -1,4 +1,3 @@
-import 'package:demo/fundation/color_fundation.dart';
 import 'package:flutter/widgets.dart';
 
 class NormalTextItau extends StatelessWidget {
@@ -10,7 +9,7 @@ class NormalTextItau extends StatelessWidget {
   Widget build(BuildContext context) {
     return Text(
       text,
-      style: const TextStyle(fontSize: 30, color: COLOR_PRIMARY_ITAU),
+      style: const TextStyle(fontSize: 50),
     );
   }
 }
