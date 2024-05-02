@@ -9,7 +9,8 @@ class NormalTextItau extends StatelessWidget {
   Widget build(BuildContext context) {
     return Text(
       text,
-      style: const TextStyle(fontSize: 50),
+      style:
+          const TextStyle(fontSize: 50, color: Color.fromARGB(0, 247, 114, 6)),
     );
   }
 }
