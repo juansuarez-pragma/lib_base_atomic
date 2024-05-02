@@ -1,7 +1,7 @@
 name: demo
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+repository: https://github.com/juansuarez-pragma/lib_base_atomic
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
